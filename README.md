@@ -12,3 +12,6 @@ Getting start
     path: route > base_path<br />
     database: db > medoo > master<br />
     
+CRUD Doc
+===================
+http://olo.wtf/doc/olov2/crud/
