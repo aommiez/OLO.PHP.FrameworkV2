@@ -6,7 +6,7 @@ namespace Main\View;
 
 class HtmlView extends BaseView {
     protected $viewPath = 'private/view', $view;
-    public function __construct($view , $params)
+    public function __construct($view , $params = null )
     {
         $this->params = $params;
         $this->view = $view;
